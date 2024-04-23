@@ -1,0 +1,40 @@
+{
+  "nextId": 10,
+  "accounts": [
+    {
+      "id": 2,
+      "name": "Natan",
+      "balance": 400
+    },
+    {
+      "id": 3,
+      "name": "Joao",
+      "balance": 600
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "balance": 700
+    },
+    {
+      "id": 5,
+      "name": "Marcia",
+      "balance": 900
+    },
+    {
+      "id": 6,
+      "name": "Marcos",
+      "balance": 800
+    },
+    {
+      "id": 7,
+      "name": "Marcos",
+      "balance": 800
+    },
+    {
+      "id": 9,
+      "name": "Eduardo",
+      "balance": 961
+    }
+  ]
+}
